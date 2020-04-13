@@ -1,0 +1,37 @@
+.timeline-image {
+  background: none!important;
+  border: none!important;
+}
+
+.history_image {
+  width: 110px;
+}
+
+@media (min-width: 768px) {
+  .history_image {
+    width: 130px;
+  }
+}
+
+@media (min-width: 992px) {
+  .history_image {
+    width: 160px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .history_image {
+    width: 180px;
+  }
+}
+
+.special_margin {
+  margin-right: 100px;
+}
+
+@media (min-width: 768px) {
+  .special_margin {
+    margin-right: 100px;
+  }
+}
+
