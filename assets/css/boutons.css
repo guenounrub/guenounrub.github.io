@@ -1,0 +1,33 @@
+.button_color {
+  background-color: #058b8c;
+  border-color: #058b8c;
+}
+
+.button_color:hover {
+  color: #058b8c!important;
+  border-color: white!important;
+  background-color: white!important;
+}
+
+#gauche {
+  border-right: 1px solid;
+  margin-right: 2px;
+}
+
+#droite {
+  border-left: 1px solid;
+  margin-left: 2px;
+}
+
+#button_delivery {
+  color: #058b8c;
+  background-color: white;
+  border-color: white;
+}
+
+#button_delivery:hover {
+  color: white!important;
+  background-color: #058b8c!important;
+  border-color: #058b8c!important;
+}
+
